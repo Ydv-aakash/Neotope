@@ -1,2 +1,2 @@
 # Neotope
-Neotope is a conformantional B-cell epitope predictor.
+Neotope is a conformational B-cell epitope predictor.
