@@ -1,0 +1,4 @@
+Redundancy report of testing dataset with training dataset:-
+1) Discotope 2.0:- http://weizhong-lab.ucsd.edu/cdhit-web-server/cgi-bin/result.cgi?JOBID=1641476517 or http://weizhong-lab.ucsd.edu/cdhit-web-server/cgi-bin/result.cgi?JOBID=1641476517
+2) Seppa 3.0 :- http://weizhong-lab.ucsd.edu/cdhit-web-server/cgi-bin/result.cgi?JOBID=1641476563
+3) Epitope3d:- http://weizhong-lab.ucsd.edu/cdhit-web-server/cgi-bin/result.cgi?JOBID=1641476248
